@@ -1,0 +1,89 @@
+.item_product_organic {
+  width: 223px;
+  height: 330px;
+  background-color: #91971d;
+  border-radius: 10px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.item_product_picture_organic img {
+  width: 223px;
+  height: 220px;
+  border-radius: 10px;
+}
+.head {
+  text-align: left;
+}
+.forn {
+  text-align: left;
+}
+.back {
+  padding-right: 5px;
+  text-align: right;
+}
+.item_product_organic h1 {
+  margin-top: 5px;
+  margin-left: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  max-width: 220px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.item_product_organic h3 {
+  margin: 0px 0px 0px 5px;
+  font-weight: bold;
+  color: white;
+  font-size: 25px;
+}
+.item_product_organic input[type="button"] {
+  width: 40px;
+  height: 40px;
+  background-color: #6a7f23;
+  border-radius: 10px;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+table tr .font h3 {
+  width: 90px;
+  margin-top: 0%;
+  margin-bottom: 5px;
+  text-align: left;
+}
+table tr .back {
+  width: 100px;
+  margin-top: 0%;
+  margin-bottom: 5px;
+  text-align: right;
+}
+table tr .back button {
+  padding-bottom: 0px;
+  background: #6a7f23;
+  font-size: 25px;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  padding-top: 5px;
+}
+table tr .back button i {
+  color: #d8cd4a;
+}
+.item_product_organic span {
+  margin: 0px 0px 0px 5px;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  font-size: 15px;
+}
+
+.item_product_organic .head_organic p {
+  margin: 0px;
+  text-align: center;
+  color: white;
+}
+.item_product_organic {
+  display: block;
+  margin: 5px;
+}
